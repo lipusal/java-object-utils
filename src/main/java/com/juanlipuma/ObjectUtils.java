@@ -10,8 +10,8 @@ import java.util.stream.Stream;
 
 public class ObjectUtils {
     /**
-     * Copy the non-null fields listed in {@code properties} from {@code source} that can be copied over to
-     * {@code destination}.
+     * Copy the non-null, accessible instance fields listed in {@code properties} from {@code source} that can be copied
+     * over to {@code destination}.
      *
      * @param source      Source object. Can be of any type.
      * @param destination Destination object.
