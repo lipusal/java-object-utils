@@ -71,4 +71,12 @@
       </plugins>
     </pluginManagement>
   </build>
+
+  <distributionManagement>
+    <repository>
+      <id>github</id>
+      <name>java-object-utils</name>
+      <url>https://maven.pkg.github.com/lipusal/java-object-utils</url>
+    </repository>
+  </distributionManagement>
 </project>
