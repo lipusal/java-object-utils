@@ -1,6 +1,6 @@
 # Java Object Utils
 
-Utility library for merging objects and other stuff.
+Utility library for merging objects and other stuff using reflection.
 
 ## Installation
 
